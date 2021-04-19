@@ -15,3 +15,8 @@ Note:music is only playing in  Microsoft edge
 website link:https://phycsepy.github.io/assignment.io/
 
 I hosted using github pages
+
+It is not  as Responsive i tought as  
+
+please view it in laptops and desktops it is not sutable for mobiles devices right now i will make resposnive in future ( mobile )
+
